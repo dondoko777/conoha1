@@ -6,4 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello world
-        run: echo "hello, world!, test1" > test.txt
+        run: echo hello, world!
+             pwd
+             ls -al
