@@ -12,4 +12,5 @@ jobs:
              pwd
              ls -al
              python hello.py
+             runghc hello.hs
              
