@@ -13,4 +13,6 @@ jobs:
              ls -al
              python hello.py
              runghc hello.hs
+             fsharpi main.fsx
+             
              
